@@ -195,5 +195,6 @@ This project presents a complete SQL-based analytics pipeline, integrating data 
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles.
 
-LinkedIn: (https://www.linkedin.com/in/mostafa-ti-ahmed/)
-Email Address: (mustafatifa000034@gmail.com)
+LinkedIn: (www.linkedin.com/in/omar-khaled-b37465167)
+
+Email Address: (mandomemo613@gmail.com)
